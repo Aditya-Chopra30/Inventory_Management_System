@@ -7,3 +7,8 @@ Use Cases:
 Stock tracking
 Order processing
 Sales reporting
+
+Benefits:
+
+Gain valuable desktop application development skills
+Contribute to the success and efficiency of small businesses
