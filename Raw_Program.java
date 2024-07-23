@@ -12,4 +12,6 @@ class Product {
         this.category = category;
         this.quantity = quantity;
     }
-
+    public String getName() {
+        return name;
+    }
