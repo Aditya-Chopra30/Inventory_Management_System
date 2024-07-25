@@ -32,3 +32,9 @@ class Product {
         this.quantity = quantity;
     }
 }
+class Inventory {
+    private List<Product> products;
+
+    public Inventory() {
+        products = new ArrayList<>();
+    }
