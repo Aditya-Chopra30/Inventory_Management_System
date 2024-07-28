@@ -54,3 +54,5 @@ public void addProduct(Product product) {
         }
         System.out.println("Product not found.");
     }
+    public void decreaseQuantity(String name, int quantity) {
+        for (Product product : products) {
