@@ -56,3 +56,15 @@ public void addProduct(Product product) {
     }
     public void decreaseQuantity(String name, int quantity) {
         for (Product product : products) {
+    if (product.getName().equals(name)) {
+                int newQuantity = product.getQuantity() - quantity;
+                if (newQuantity < 0) {
+                    System.out.println("Insufficient quantity.");
+                    return;
+                }
+                product.setQuantity(newQuantity);
+                return;
+            }
+        }
+        System.out.println("Product not found.");
+    }
