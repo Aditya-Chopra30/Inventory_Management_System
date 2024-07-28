@@ -38,3 +38,11 @@ class Inventory {
     public Inventory() {
         products = new ArrayList<>();
     }
+public void addProduct(Product product) {
+        products.add(product);
+    }
+
+    public void removeProduct(String name) {
+        products.removeIf(product -> product.getName().equals(name));
+    }
+
