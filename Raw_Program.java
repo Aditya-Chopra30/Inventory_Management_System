@@ -45,4 +45,12 @@ public void addProduct(Product product) {
     public void removeProduct(String name) {
         products.removeIf(product -> product.getName().equals(name));
     }
-
+    public void increaseQuantity(String name, int quantity) {
+        for (Product product : products) {
+            if (product.getName().equals(name)) {
+                product.setQuantity(product.getQuantity() + quantity);
+                return;
+            }
+        }
+        System.out.println("Product not found.");
+    }
