@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import javax.swing.*;
+import javax.swing.border.EmptyBorder;
+import javax.swing.table.DefaultTableModel;
+
 
 class Product {
     private String name;
