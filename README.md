@@ -14,6 +14,10 @@ This is a simple Inventory Management System built using Java Swing for the grap
 - **Save/Load Inventory**: Save the inventory to a file and load it from a file.
 - **Logout**: Logout and return to the login screen.
 
+## Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+
 Benefits:
 Gain valuable desktop application development skills
 Contribute to the success and efficiency of small businesses
