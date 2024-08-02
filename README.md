@@ -9,6 +9,10 @@ This is a simple Inventory Management System built using Java Swing for the grap
 - **Update Quantity**: Increase or decrease the quantity of existing products.
 - **Search Functionality**: Search for products by name.
 - **Display Products**: View the entire list of products in the inventory.
+- **Font Customization**: Change font size and font type of the product list.
+- **Theme Switching**: Switch between light and dark themes.
+- **Save/Load Inventory**: Save the inventory to a file and load it from a file.
+- **Logout**: Logout and return to the login screen.
 
 Benefits:
 Gain valuable desktop application development skills
