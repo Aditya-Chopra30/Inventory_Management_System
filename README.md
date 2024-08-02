@@ -18,6 +18,9 @@ This is a simple Inventory Management System built using Java Swing for the grap
 
 - Java Development Kit (JDK) 8 or higher
 
+## Getting Started
+
+### Clone the Repository
 Benefits:
 Gain valuable desktop application development skills
 Contribute to the success and efficiency of small businesses
