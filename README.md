@@ -20,7 +20,7 @@ This is a simple Inventory Management System built using Java Swing for the grap
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/InventoryManagementSystem.git
+git clone https://github.com/Aditya-Chopra30/Inventory_Management_System
 cd InventoryManagementSystem
 ### Clone the Repository
 
