@@ -6,6 +6,9 @@ This is a simple Inventory Management System built using Java Swing for the grap
 - **User Authentication**: Login functionality with predefined user credentials.
 - **Add Product**: Add new products to the inventory.
 - **Remove Product**: Remove products from the inventory.
+- **Update Quantity**: Increase or decrease the quantity of existing products.
+- **Search Functionality**: Search for products by name.
+- **Display Products**: View the entire list of products in the inventory.
 
 Benefits:
 Gain valuable desktop application development skills
