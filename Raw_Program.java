@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class Product {
+class Product implements Serializable {
     private String name;
     private String category;
     private int quantity;
@@ -23,15 +23,19 @@ class Product {
         this.category = category;
         this.quantity = quantity;
     }
+
     public String getName() {
         return name;
     }
+
     public void setName(String name) {
         this.name = name;
     }
+
     public String getCategory() {
         return category;
     }
+
     public void setCategory(String category) {
         this.category = category;
     }
